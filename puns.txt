@@ -1,11 +1,9 @@
 Yo it's me puns.txt
 
 Saddiest moments 😢
-<<<<<<< HEAD
 Hero help me!
 GrimReaper nooo get rekt
 Call me SuperMan
-=======
 Hero help me with saving people!
 GrimReaper nooo get rekt
->>>>>>> main
+hello welcome
